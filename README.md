@@ -52,7 +52,7 @@ B.Tech (2025), RCCIIT Kolkata
 Departments: EE, ECE, CSE, CSE-AL/ML  
 
 📧 *bihargaurav56gmail.com*  
-🌐 [GitHub Repository](https://github.com/bihargourav/employee_management)
+🌐 (https://github.com/BGourav05/employee_management)
 
 ---
 
