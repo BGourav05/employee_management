@@ -1,0 +1,20 @@
+// DEMO DATA GENERATOR (only run once)
+ofstream demo("employees.dat", ios::binary);
+Employee e1, e2, e3;
+e1 = {101, "Riya Sharma", "HR", 45000};
+e2 = {102, "Aman Kumar", "IT", 55000};
+e3 = {103, "Sneha Das", "Finance", 50000};
+demo.write(reinterpret_cast<char*>(&e1), sizeof(Employee));
+demo.write(reinterpret_cast<char*>(&e2), sizeof(Employee));
+demo.write(reinterpret_cast<char*>(&e3), sizeof(Employee));
+demo.close();
+cout << "Demo employees loaded!\n";
+employee_management/
+ ├── main.cpp
+ ├── employee.h
+ ├── employees.dat  (preloaded with 3 sample employees)
+ ├── README.md
+ ├── PROJECT_REPORT.md
+ ├── LICENSE
+ ├── screenshot.png
+ └── GITHUB_UPLOAD_INSTRUCTIONS.txt
