@@ -11,6 +11,9 @@ RCC Institute of Information Technology (RCCIIT), Kolkata.
 It is a simple, menu-driven **Employee Management System** written in **C++**,  
 designed to handle employee data, salary, and department records efficiently.
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/70eb37ca-1b7f-425b-ac79-0a73cf772578" />
+
 ---
 
 ## 🎯 Features
