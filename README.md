@@ -32,4 +32,31 @@ designed to handle employee data, salary, and department records efficiently.
 
 ---
 
+---
+
+## 🚀 Future Improvements
+- 🖥️ Add a GUI using Qt or Tkinter  
+- 🗄️ Use databases (MySQL/SQLite) instead of files  
+- 📊 Add attendance and leave management  
+- 📈 Data visualization of salaries and departments  
+- 🌐 Web-based version using Flask/Django  
+
+---
+
+## 👤 Author
+**Bihar Gourav**  
+B.Tech (2025), RCCIIT Kolkata  
+Departments: EE, ECE, CSE, CSE-AL/ML  
+
+📧 *bihargaurav56gmail.com*  
+🌐 [GitHub Repository](https://github.com/bihargourav/employee_management)
+
+---
+
+## 🪪 License
+This project is licensed under the **MIT License** — see the LICENSE file for details.
+
+---
+
+
 ## 📂 File Structure
